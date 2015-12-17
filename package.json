@@ -1,0 +1,39 @@
+{
+  "name": "sails-waterline-fixtures",
+  "version": "0.0.1",
+  "description": "JSON fixtures for Sails.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westtrade/sails-waterline-fixtures.git"
+  },
+  "keywords": [
+    "sails",
+    "waterline",
+    "fixtures"
+  ],
+  "author": "Popov Gena <commerce@westtrade.tk> (http://westtrade.tk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westtrade/sails-waterline-fixtures/issues"
+  },
+  "homepage": "https://github.com/westtrade/sails-waterline-fixtures#readme",
+  "dependencies": {
+    "fs-finder": "^1.8.1",
+    "graceful-chokidar": "^0.1.0",
+    "lodash": "^3.10.1",
+    "promise": "^7.0.4"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.1",
+    "jshint": "^2.9.1-rc1",
+    "mocha": "^2.3.4",
+    "proxyquire": "^1.7.3"
+  }
+}

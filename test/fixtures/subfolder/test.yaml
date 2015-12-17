@@ -1,0 +1,4 @@
+-  
+	model: test
+	items: 
+   		- { id: 12, test: 142 }

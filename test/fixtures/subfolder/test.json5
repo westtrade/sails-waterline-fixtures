@@ -1,0 +1,7 @@
+[{
+    "model": "user",
+    "items": [{
+        "id": 1,
+        "field": "Test"
+    }]
+}]

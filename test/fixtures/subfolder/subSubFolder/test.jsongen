@@ -1,0 +1,17 @@
+[
+	{
+		'model' : 'test_submodel',
+		items : [
+			'{{repeat(5)}}',
+			{
+				id : '{{id("user")}}',
+				email   : '{{email()}}',
+				address : '{{num(1,99)}} {{street()}}, {{city()}}',
+
+				testFuncParam : function () {
+					return 'complete';
+				}
+			}
+		]
+	}
+]
