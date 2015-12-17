@@ -1,5 +1,12 @@
 # sails-waterline-fixtures
 
+
+[![Codacy](https://img.shields.io/codacy/6842498f08bb440b9e927ae454bdcd3f.svg)](https://www.codacy.com/app/westtrade/sails-waterline-fixtures)
+[![Build Status](https://img.shields.io/travis/westtrade/sails-waterline-fixtures.svg?style=flat)](https://travis-ci.org/westtrade/sails-waterline-fixtures) 
+[![NPM version](https://img.shields.io/npm/v/sails-waterline-fixtures.svg?style=flat)](http://badge.fury.io/js/sails-waterline-fixtures) 
+[![Dependency Status](https://gemnasium.com/westtrade/sails-waterline-fixtures.svg?style=flat)](https://gemnasium.com/westtrade/sails-waterline-fixtures)
+
+
 JSON fixtures for Sails. Data automatically loaded, updated and checked every time after lift your sails app, or change in fixtures directory.
 
 ## ROADMAP
